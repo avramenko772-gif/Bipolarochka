@@ -1,0 +1,19 @@
+{
+  "name": "superpowers",
+  "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+  "version": "5.1.0",
+  "author": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "homepage": "https://github.com/avramenko772-gif/Bipolarochka",
+  "repository": "https://github.com/avramenko772-gif/Bipolarochka",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "claude-code"
+  ]
+}
